@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "category": "Coffee Shops",
+      "items": [
+        {
+          "name": "Expressed",
+          "price": 40,
+          "description": "Espresso is an intense and concentrated coffee, prepared by forcing hot water through finely ground coffee. Originally from Italy, it is characterized by its smooth cream on top, a robust flavor and an enveloping aroma. It is the basis of many coffee drinks and is enjoyed alone or as a complement in various preparations."
+        },
+        {
+          "name": "Double",
+          "price": 50,
+          "description": "Double espresso is a concentrated espresso, which is prepared using twice as much ground coffee compared to a regular espresso. It is characterized by its intense flavor and robust aroma, ideal for coffee lovers looking for a stronger and richer experience. Perfect to enjoy at any time of the day."
+        },
+        {
+          "name": "American",
+          "price": 50,
+          "description": "American coffee is a drink that is made by adding hot water to espresso, resulting in a smoother and lighter cup of coffee compared to pure espresso. Its flavor is enriching and offers an experience similar to filtered coffee, ideal for those who enjoy a coffee with a flavorful background and less intensity."
+        },
+        {
+          "name": "Coffee",
+          "price": 50,
+          "description": "Coffee is a hot and comforting drink, made from roasted and ground coffee beans. Its taste varies depending on the origin of the grains and the method of preparation. It is perfect to start the day or enjoy a relaxing moment, either alone, with milk, or in a variety of delicious presentations."
+        },
+        {
+          "name": "Late",
+          "price": 60,
+          "description": "The latte is an espresso coffee drink combined with steamed milk and a layer of foam on top. Smooth and creamy, this delicious drink is perfect to enjoy at any time of the day. It can be served alone or with flavorings such as vanilla or caramel, creating a unique and comforting experience."
+        },
+        {
+          "name": "Cappuccino",
+          "price": 60,
+          "description": "Cappuccino is a delicious coffee drink that combines espresso with steamed milk and a layer of milk foam. It is typically served in a small cup and can be sprinkled with cocoa or cinnamon. Its balance between the strong taste of coffee and the smoothness of milk makes it a popular choice for any time of the day."
+        }
+      ]
+    },
+    {
+      "category": "Cold drinks",
+      "items": [
+        {
+          "name": "Cold coffee",
+          "price": 50,
+          "description": "Cold coffee is a delicious refreshing drink that combines cold coffee with ice and milk. It is often sweetened with vanilla or caramel syrup, creating a perfect blend of intense flavor and freshness. Ideal to enjoy on hot days or as a revitalizing pick-me-up at any time."
+        },
+        {
+          "name": "Strike",
+          "price": 60,
+          "description": "Frappe is a delicious cold drink that combines coffee, ice and milk, all mixed until a creamy and frothy texture is obtained. Ideal for hot days, it can be sweetened to taste and garnished with whipped cream or cocoa. Perfect to enjoy alone or in company, it is an energizing refreshment that awakens the senses."
+        },
+        {
+          "name": "Late Cold",
+          "price": 60,
+          "description": "The Cold Late is a refreshing and creamy drink, prepared with cold espresso coffee, cold milk and a touch of sweet syrup. It is served in a tall glass, decorated with milk foam on top and a touch of cinnamon. Ideal to enjoy on hot days, it is a perfect combination of flavor and freshness."
+        },
+        {
+          "name": "Sodas",
+          "price": 35,
+          "description": "Sodas are refreshing carbonated drinks that offer a variety of flavors, from cola to lemon and orange. They are ideal to accompany meals or enjoy alone on hot days. Their bubbly effervescence and sweetness make them a popular choice for any occasion."
+        }
+      ]
+    },
+    {
+      "category": "Fresh Juices",
+      "items": [
+        {
+          "name": "Orange",
+          "price": 45,
+          "description": "Orange juice is a refreshing and natural drink made from fresh oranges. Rich in vitamin C, this juice is perfect to start the day with energy or enjoy at any time. Its sweet and citrus flavor makes it a favorite for everyone, ideal to accompany meals or as a healthy hydration."
+        },
+        {
+          "name": "Grapefruit",
+          "price": 45,
+          "description": "Grapefruit juice is a refreshing and healthy drink, made with fresh grapefruits. Its sweet and sour taste is ideal to start the day with vitality. Rich in vitamin C and antioxidants, this juice can also help digestion and strengthen the immune system. Perfect to enjoy alone or as a side dish to a meal."
+        }
+      ]
+    },
+    {
+      "category": "Smoothies",
+      "items": [
+        {
+          "name": "Tahiti (orange, pineapple and strawberries)",
+          "price": 60,
+          "description": "The Tahiti smoothie is a delicious tropical blend that combines the refreshing taste of orange, the sweetness of pineapple and the freshness of strawberries. Ideal to enjoy at any time of the day, it is a nutritious and revitalizing option that provides vitamins and energy."
+        },
+        {
+          "name": "Bora Bora (orange, pineapple, apple, lemon)",
+          "price": 60,
+          "description": "The Bora Bora is a refreshing smoothie that combines the citrus flavor of orange, the sweetness of pineapple and the freshness of apple, with a touch of lemon. Ideal to enjoy at any time of the day, this tropical smoothie will transport you to a paradise of exotic and revitalizing flavors."
+        },
+        {
+          "name": "Moorea (banana, pineapple, coconut milk, yogurt)",
+          "price": 69,
+          "description": "Moorea is a delicious and tropical smoothie that combines the sweetness of banana and pineapple with the creaminess of coconut milk and yogurt. Perfect to refresh yourself, this smoothie is an explosion of exotic flavors that transports you to an island paradise with every sip. Ideal to enjoy at any time of the day."
+        },
+        {
+          "name": "Maui (mango, coconut, soy milk, yogurt)",
+          "price": 65,
+          "description": "The Maui smoothie is a delicious combination of mango and coconut, mixed with soy milk and creamy yogurt. This refreshing drink is perfect to enjoy at any time of the day, providing a tropical touch full of flavor and nutrients. Ideal for exotic tastes and lovers of healthy drinks."
+        },
+        {
+          "name": "Waikiki (strawberry, raspberry, arandano)",
+          "price": 69,
+          "description": "The Waikiki is a refreshing smoothie that combines strawberry, raspberry and blueberry, creating a delicious and vibrant mixture. Perfect to enjoy at any time of the day, it provides an explosion of fruity flavor and a dose of natural antioxidants. Ideal to quench thirst and provide energy."
+        },
+        {
+          "name": "Fiji (papaya, melon, orange, lime)",
+          "price": 69,
+          "description": "Fiji is a refreshing smoothie that combines the sweetness of papaya and melon with the acidity of orange and lime. Ideal for hot days, it offers a vibrant and nutritious tropical flavor, full of vitamins. Enjoy this unique blend that revitalizes and refreshes every sip."
+        }
+      ]
+    },
+    {
+      "category": "Breakfasts",
+      "items": [
+        {
+          "name": "Scrambled Eggs (Ham, sausage, prickly pear, chilled beans)",
+          "price": 75,
+          "description": "Scrambled eggs are a delicious combination of freshly beaten eggs, mixed with ham, sausage and prickly pear. They are served with chilled beans, creating a hearty and tasty breakfast. Perfect to start the day with energy and enjoy traditional Mexican flavors."
+        },
+        {
+          "name": "Huevos Motuleños (2 fried eggs on tortilla, red sauce, ham and fried banana)",
+          "price": 95,
+          "description": "Huevos Motuleños is a delicious Mexican dish consisting of two fried eggs served on a tortilla. They are accompanied by a tasty red sauce, ham and fried plantain, creating a perfect combination of flavors and textures to start the day with energy."
+        },
+        {
+          "name": "Huevos Rancheros (2 fried eggs over tortilla, red sauce, refried beans)",
+          "price": 85,
+          "description": "Huevos Rancheros is a delicious Mexican breakfast consisting of two fried eggs served on hot corn tortillas. They are accompanied with spicy red sauce and chilled beans, creating a combination of flavors and textures that awaken the palate and provide energy for the whole day."
+        },
+        {
+          "name": "Egg Sandwich (Scrambled eggs with bacon, sausage, Avocado, salad)",
+          "price": 100,
+          "description": "The Egg Sandwich is a delicious breakfast option that combines scrambled eggs with crispy bacon and sausage, all complemented by fresh avocado and a light salad. Perfect to start the day with energy and flavor."
+        },
+        {
+          "name": "Club Sandwich (Turkey Ham, Bacon, Chicken, Cheese, Lettuce, French Fries)",
+          "price": 120,
+          "description": "Enjoy a delicious Club Sandwich, made with turkey ham, crispy bacon, juicy chicken and melted cheese, all fresh between layers of bread. Accompanied by crispy lettuce and an irresistible portion of French fries, it is the perfect breakfast to start the day with energy."
+        },
+        {
+          "name": "Papas mix (French fries, Egg, Salad)",
+          "price": 95,
+          "description": "Mix Potatoes are a delicious breakfast that combines crispy French fries, fresh eggs and a refreshing salad. Perfect to start the day with energy, this blend offers a combination of flavors and textures that satisfies the palate. Ideal to share or enjoy alone."
+        },
+        {
+          "name": "Chilaquiles with Chicken",
+          "price": 115,
+          "description": "Chilaquiles con pollo are a delicious Mexican dish that combines crispy tortilla chips dipped in green or red sauce, accompanied with pieces of shredded chicken. They are usually served with cream, fresh cheese and onion, and can be garnished with avocado and cilantro. They are ideal for a hearty breakfast full of flavor."
+        },
+        {
+          "name": "Chilaquiles with Egg",
+          "price": 95,
+          "description": "Chilaquiles con huevo are a delicious Mexican breakfast consisting of tortilla chips (fried corn tortillas) dipped in red or green sauce, accompanied by starry or scrambled eggs. They are usually decorated with cream, onion, avocado and fresh cheese, creating a dish full of flavor and tradition."
+        }
+      ]
+    },
+    {
+      "category": "At any time",
+      "items": [
+        {
+          "name": "TIKI Taco (3 pork tacos)",
+          "price": 95,
+          "description": "Enjoy the TIKI Tacos, a delicious option for any time. These tacos come stuffed with juicy pork, seasoned to perfection and served in soft tortillas. Each bite offers an explosion of flavor, accompanied by onion, cilantro and spicy sauce. A culinary experience not to be missed!"
+        },
+        {
+          "name": "Taco Arrachera (3 tacos)",
+          "price": 145,
+          "description": "The Arrachera Tacos are a delicious option for any time, featuring three soft tacos filled with juicy arrachera seasoned and roasted to perfection. They are served with onion, cilantro and a spicy sauce, all wrapped in a fresh corn tortilla, offering an authentic flavor and full of joy in every bite."
+        },
+        {
+          "name": "Baja Taco (3 shrimp taco)",
+          "price": 150,
+          "description": "Baja Tacos are delicious shrimp tacos, made with three seasoned and cooked shrimp, served in freshly made corn tortillas. They are complemented with fresh cabbage, spicy sauce and a touch of cream. Perfect to enjoy at any time, they are an explosion of marine flavors in every bite."
+        },
+        {
+          "name": "Viva Tikila Burger (Arrachera, Turkey Ham, Oaxaca Cheese, Bacon, Lettuce, pepper, olive, fried egg)",
+          "price": 190,
+          "description": "The Viva Tikila Burger is an explosion of flavors. It includes tender arrachera, turkey ham, Oaxacan cheese, crispy bacon and fresh vegetables such as lettuce and pepper. Garnished with olives and a fried egg, it is an irresistible option to enjoy at any time of the day."
+        },
+        {
+          "name": "Chicken hamburger (chicken lock, Oaxaca cheese, teriyaki onion, roasted pineapple)",
+          "price": 140,
+          "description": "Delight yourself with our chicken burger, which consists of a juicy chicken breast accompanied by Oaxaca cheese. Immerse yourself in its unique flavor with teriyaki onion and the sweet touch of roasted pineapple. Perfect for any time of the day, this burger is an explosion of flavors that will surely satisfy your craving."
+        },
+        {
+          "name": "Traditional guacamole",
+          "price": 85,
+          "description": "Traditional guacamole is a delicious Mexican sauce made from fresh avocados, lime juice, chopped onion, cilantro and a touch of salt. Perfect as a dip or side dish, its creaminess and fresh flavor make it a favorite at any time of the day."
+        },
+        {
+          "name": "TIKI Guacamole",
+          "price": 95,
+          "description": "TIKI Guacamole is a delicious blend of fresh avocados, onion, cilantro and lime juice, enhanced with pineapple chunks and a touch of chili for a tropical flavor. Perfect to share as a snack at any time, with crispy tortilla chips or as a topping on your favorite dishes."
+        },
+        {
+          "name": "Arrachera Musubi (3 nigiris with Bacon, roasted arrachera with teriyaki sauce)",
+          "price": 135,
+          "description": "The Arrachera Musubi consists of three rice nigiris covered with delicate bacon and juicy roasted arrachera, perfectly dressed with a tasty teriyaki sauce. This fusion of flavors and textures is ideal to enjoy at any time of the day, combining Japanese tradition with the passion for Mexican meat."
+        },
+        {
+          "name": "Bruschetta Huli Huli (Chicken breast, onion, pineapple, honey, mustard, fried banana)",
+          "price": 146,
+          "description": "Bruschetta Huli Huli is a delicious dish that combines juicy chicken breast, caramelized onion, sweet pineapple, honey and mustard, all on a crispy bread. It is served with fried plantain as a side, adding a tropical and crunchy touch. Perfect to enjoy at any time of the day."
+        },
+        {
+          "name": "Aguachile de Camaron (Coconut shrimp, cilantro, radish, ginger, black chili)",
+          "price": 165,
+          "description": "Aguachile de camarón is a fresh and vibrant dish that combines marinated coconut shrimp with a touch of cilantro, crunchy radishes and the sparkle of ginger. All seasoned with black chili for a spicy touch, ideal to enjoy at any time of the day."
+        },
+        {
+          "name": "Poke Tuna (tuna steak marinated with soy sauce, tabasco sauce, avocado, cucumber)",
+          "price": 165,
+          "description": "The Poke Tuna is a fresh and full of flavor dish, consisting of tuna steak marinated with a delicious mixture of soy sauce and tabasco sauce. It is accompanied by avocado and cucumber, creating a perfect combination between the softness of the fish and the freshness of the vegetables. Ideal to enjoy at any time."
+        },
+        {
+          "name": "Salmon Lumi Lumi (Marinated salmon with mango, Pineapple, spicy olive oil)",
+          "price": 165,
+          "description": "The salmon Lumi Lumi is an exquisite dish that combines marinated salmon with mango and pineapple, providing a sweet and fresh touch. Seasoned with spicy olive oil, it is ideal to enjoy at any time of the day, offering a unique gastronomic experience that highlights tropical flavors."
+        },
+        {
+          "name": "Lumi Lumi by Camaron (Shrimp with yellow lemon, radish, Serrano pepper, sesame oil)",
+          "price": 155,
+          "description": "Shrimp Lumi Lumi is a fresh and vibrant dish, which combines juicy shrimp with the citrus flavor of yellow lemon. It is complemented with crunchy radishes and a spicy touch of serrano pepper, all seasoned with a delicate sesame oil that enhances its flavors. Ideal to enjoy at any time."
+        },
+        {
+          "name": "Coconut shrimp (Coconut caped shrimp, spicy mango sauce, sweet potato pure)",
+          "price": 195,
+          "description": "Coconut shrimp is an exquisite dish that combines crispy caped shrimp with a sweet and spicy mango sauce. They are served over a soft sweet potato puree, creating a perfect balance between flavors and textures, ideal to enjoy at any time of the day."
+        }
+      ]
+    }
+  ],
+  "restaurant_name": "VIVA TIKILA"
+}

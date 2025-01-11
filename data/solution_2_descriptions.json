@@ -1,0 +1,235 @@
+{
+  "categories": [
+    {
+      "category": "Cafés",
+      "items": [
+        {
+          "name": "Espresso",
+          "price": 40,
+          "description": "Un café intenso y concentrado, elaborado con granos de café finamente molidos, perfectos para disfrutar solo o como base para otras bebidas. Su sabor robusto y aroma envolvente lo hacen ideal para los amantes del buen café."
+        },
+        {
+          "name": "Doble",
+          "price": 50,
+          "description": "Unpredictable"
+        },
+        {
+          "name": "Americano",
+          "price": 50,
+          "description": "Un café americano, preparado con agua caliente y espresso, ofrece un sabor intenso y suave, ideal para aquellos que disfrutan de una taza de café reinvigorante. Perfecto para empezar el día o para una pausa en cualquier momento."
+        },
+        {
+          "name": "Coffee",
+          "price": 50,
+          "description": "Unpredictable"
+        },
+        {
+          "name": "Late",
+          "price": 60,
+          "description": "Un delicioso café con leche espumosa, suave y cremoso, ideal para disfrutar en cualquier momento del día. Perfecto para los amantes del café que buscan una experiencia reconfortante y dulce."
+        },
+        {
+          "name": "Cappuccino",
+          "price": 60,
+          "description": "Un suave y cremoso cappuccino que combina café espresso con leche espumosa, coronado con un toque de cacao o canela. Perfecto para disfrutar en cualquier momento del día."
+        }
+      ]
+    },
+    {
+      "category": "Bebidas frías",
+      "items": [
+        {
+          "name": "Coffee frio",
+          "price": 50,
+          "description": "Disfruta de un refrescante café frío, preparado con café bien filtrado y servido con hielo, ideal para los días calurosos. Este sorbo de energía es perfecto para los amantes del café que buscan un toque refrescante."
+        },
+        {
+          "name": "Frappe",
+          "price": 60,
+          "description": "Una refrescante bebida fría que combina café, hielo y leche, todo licuado hasta obtener una textura suave y cremosa. Perfecta para disfrutar en un día caluroso."
+        },
+        {
+          "name": "Late Frio",
+          "price": 60,
+          "description": "Unrefreshing late frio, una deliciosa mezcla de café con leche fría, ideal para disfrutar en un día caluroso. Suave y energizante, es el acompañamiento perfecto para tus momentos de relajación."
+        },
+        {
+          "name": "Sodas",
+          "price": 35,
+          "description": "Disfruta de una refrescante selección de sodas frías, perfectas para acompañar tus comidas o simplemente para aliviar la sed. Variedad de sabores que van desde cola hasta naranja, ideales para toda la familia."
+        }
+      ]
+    },
+    {
+      "category": "Jugos Frescos",
+      "items": [
+        {
+          "name": "Naranja",
+          "price": 45,
+          "description": "Un refrescante jugo de naranja natural, lleno de vitaminas y sabor citrus, ideal para empezar el día con energía y frescura. Hecho con naranjas jugosas y dulces, es la bebida perfecta para toda la familia."
+        },
+        {
+          "name": "Toronja",
+          "price": 45,
+          "description": "Un refrescante jugo de toronja, lleno de sabor y vitamina C, ideal para comenzar el día con energía. Su toque ligeramente ácido y dulce lo convierte en la bebida perfecta para acompañar cualquier comida o simplemente disfrutar a cualquier hora."
+        }
+      ]
+    },
+    {
+      "category": "Smoothies",
+      "items": [
+        {
+          "name": "Tahiti (naranja, piña y fresas)",
+          "price": 60,
+          "description": "Un refrescante smoothie tropical que combina el sabor dulce de la naranja, la piña jugosa y las fresas frescas, ideal para disfrutar en cualquier momento del día."
+        },
+        {
+          "name": "Bora Bora (naranja, piña manzana, limon)",
+          "price": 60,
+          "description": "Una refrescante mezcla tropical de naranja, piña, manzana y limón, ideal para disfrutar en cualquier momento del día. Este smoothie es perfecto para saciar la sed y revitalizarte con su sabor natural y vibrante."
+        },
+        {
+          "name": "Moorea (banana, piña, leche de coco, yogurt)",
+          "price": 69,
+          "description": "Un smoothie tropical refrescante que combina el dulce sabor del plátano y la jugosa piña con la suavidad de la leche de coco y el yogur, ideal para quienes buscan una bebida cremosa y nutritiva."
+        },
+        {
+          "name": "Maui (mango, coco,leche de soya, yogurt)",
+          "price": 65,
+          "description": "Una deliciosa mezcla tropical de mango fresco, coco cremoso, leche de soya y yogurt suave, perfecta para refrescarte y disfrutar de un sabor exótico en cualquier momento del día."
+        },
+        {
+          "name": "Waikiki (fresa, frambuesa, arandano)",
+          "price": 69,
+          "description": "Una refrescante mezcla de fresas, frambuesas y arándanos que evoca la brisa tropical de Waikiki. Este smoothie es perfecto para disfrutar en cualquier momento del día, lleno de sabor y antioxidantes."
+        },
+        {
+          "name": "Fiji (papaya, melon, orange, lime)",
+          "price": 69,
+          "description": "Una refrescante combinación de papaya, melón, naranja y limón que te transporta a un paraíso tropical. Este smoothie es perfecto para hidratarte y disfrutar de una explosión de sabores frutales en cada sorbo."
+        }
+      ]
+    },
+    {
+      "category": "Desayunos",
+      "items": [
+        {
+          "name": "Huevos Revueltos (Jamon , salchicha , nopal, frijoles refritos)",
+          "price": 75,
+          "description": "Deliciosos huevos revueltos combinados con jamón, salchicha y nopal fresco, acompañados de frijoles refritos, creando un desayuno nutritivo y lleno de sabor que te llenará de energía para el día."
+        },
+        {
+          "name": "Huevos Motuleños (2 huevos fritos sobre tortilla, salsa roja , jamon y platano frito)",
+          "price": 95,
+          "description": "Un clásico desayuno yucateco que ofrece dos huevos fritos sobre una tortilla crujiente, bañados en salsa roja, acompañados de deliciosas lonchas de jamón y el toque dulce de plátano frito. Perfecto para comenzar el día con energía."
+        },
+        {
+          "name": "Huevos Rancheros(2 huevos fritos sobre tortilla,Salsa roja , frijoles refritos)",
+          "price": 85,
+          "description": "Un delicioso desayuno mexicano que presenta dos huevos fritos sobre tortillas calientes, bañados con salsa roja picante y acompañados de frijoles refritos. Ideal para comenzar el día con energía y sabor."
+        },
+        {
+          "name": "Sandwich de Huevo (Huevos revueltos con tocino , salchicha , Aguacate ,ensalada)",
+          "price": 100,
+          "description": "Delicioso sándwich de desayuno con huevos revueltos, crujiente tocino, jugosa salchicha y frescos trozos de aguacate, acompañado de una refrescante ensalada. Perfecto para comenzar el día con energía."
+        },
+        {
+          "name": "Club Sandwich (Jamon de Pavo, Tocino, Pollo, Queso, Lechuga , Papas Fritas)",
+          "price": 120,
+          "description": "Delicioso Club Sandwich compuesto por capas de jamón de pavo, tocino crujiente, pollo jugoso y queso derretido, todo fresco con lechuga. Acompañado de papas fritas doradas, es una opción abundante para comenzar el día."
+        },
+        {
+          "name": "Papas mix (Papas fritas,Huevo , Ensalada)",
+          "price": 95,
+          "description": "Un delicioso plato de desayuno que combina papas fritas doradas, huevos revueltos y una fresca ensalada, ofreciendo un equilibrio perfecto entre sabor y textura para comenzar bien el día."
+        },
+        {
+          "name": "Chilaquiles con Pollo",
+          "price": 115,
+          "description": "Un delicioso plato de chilaquiles crujientes bañados en salsa roja o verde, cubiertos con suculento pollo deshebrado, crema, queso fresco y cebolla. Ideal para comenzar el día con energía y sabor."
+        },
+        {
+          "name": "Chilaquiles con Huevo",
+          "price": 95,
+          "description": "Un delicioso plato de chilaquiles crujientes bañados en salsa verde o roja, acompañados de huevos fritos. Un desayuno tradicional que combina sabores auténticos y es ideal para comenzar el día con energía."
+        }
+      ]
+    },
+    {
+      "category": "A cualquier hora",
+      "items": [
+        {
+          "name": "TIKI Taco (3 tacos de puerco)",
+          "price": 95,
+          "description": "Tres deliciosos tacos de puerco con carne jugosa y bien sazonada, servidos en tortillas suaves. Cada taco se puede acompañar con cebolla, cilantro y tu salsa favorita, ideal para disfrutar a cualquier hora del día."
+        },
+        {
+          "name": "Taco Arrachera (3 tacos)",
+          "price": 145,
+          "description": "Tres tacos suaves rellenos de jugosa arrachera marinada y asada a la perfección, servidos con cebolla, cilantro y salsa al gusto. Perfectos para cualquier hora del día, disfrutarás de un sabor auténtico que te hará querer más."
+        },
+        {
+          "name": "Baja Taco (3 shrimp taco)",
+          "price": 150,
+          "description": "Tres deliciosos tacos de camarón, marinados y cocinados a la perfección, servidos en tortillas suaves con salsa fresca, repollo crujiente y un toque de limón. Un plato ideal para disfrutar en cualquier momento del día."
+        },
+        {
+          "name": "Hamburguesa Viva Tikila (Arrachera, Jamon de Pavo, Queso oaxaca,Tocino, Lechuga, pimiento,aceituna,huevo frito)",
+          "price": 190,
+          "description": "Deléitate con la Hamburguesa Viva Tikila, una jugosa arrachera acompañada de jamón de pavo, queso Oaxaca derretido, crujiente tocino, lechuga fresca, pimientos y aceitunas, todo coronado con un huevo frito. Una explosión de sabores que puedes disfrutar a cualquier hora del día."
+        },
+        {
+          "name": "Hamburguesa de Pollo (Pechuga de Pollo, Queso Oaxaca,cebolla al teriyaki, piña asada)",
+          "price": 140,
+          "description": "Una deliciosa hamburguesa de pollo hecha con pechuga jugosa, queso Oaxaca fundido, cebolla caramelizada al teriyaki y piña asada. Perfecta para cualquier hora del día, combina sabores dulces y salados que disfrutarás en cada bocado."
+        },
+        {
+          "name": "Guacamole tradicional",
+          "price": 85,
+          "description": "Un delicioso guacamole tradicional, hecho con aguacates frescos, jugo de limón, cebolla y cilantro, todo bien machacado para lograr una mezcla cremosa y llena de sabor. Perfecto para acompañar con totopos o como un dip refrescante en cualquier momento."
+        },
+        {
+          "name": "Guacamole TIKI",
+          "price": 95,
+          "description": "Un delicioso guacamole con un toque tropical, elaborado con aguacate fresco, jugo de limón, trocitos de piña y un toque de cilantro. Perfecto para disfrutar a cualquier hora, ya sea con totopos crujientes o como acompañante de tus platos favoritos."
+        },
+        {
+          "name": "Arrachera Musubi (3 nigiris con Tocino, arrachera asada con salsa teriyaki)",
+          "price": 135,
+          "description": "Una deliciosa fusión de sabores en cada bocado: tres nigiris de arrachera asada, envueltos en crujiente tocino y bañados en una suave salsa teriyaki. Perfecto para disfrutar a cualquier hora del día."
+        },
+        {
+          "name": "Bruschetta Huli Huli (Pechuga de Pollo,cebolla , piña, miel, mostaza,Platano frito)",
+          "price": 146,
+          "description": "Una deliciosa bruschetta que combina pechuga de pollo jugosa, cebolla caramelizada y dulces trozos de piña, todo bañado en una mezcla de miel y mostaza. Se acompaña de plátano frito crujiente, creando un equilibrio perfecto entre sabores salados y dulces. Ideal para disfrutar a cualquier hora del día."
+        },
+        {
+          "name": "Aguachile de Camaron (Camarones al coco , cilantro, rabano, gengibre, chile negro)",
+          "price": 165,
+          "description": "Un refrescante aguachile de camarón, preparado con camarones al coco, cilantro fresco, rábanos crujientes, jengibre y un toque de chile negro. Ideal para disfrutar en cualquier momento del día, combina sabores tropicales y picantes que despiertan el paladar."
+        },
+        {
+          "name": "Poke Tuna (filete de Atun marinado con salsa de soya , salsa tabasco, aguacate ,pepino )",
+          "price": 165,
+          "description": "Delicioso poke de atún marinado en salsa de soya y un toque de salsa tabasco, acompañado de frescos aguacates y pepinos. Un plato lleno de sabor y frescura, ideal para disfrutar a cualquier hora del día."
+        },
+        {
+          "name": "Lumi Lumi de salmon (Salmon Marinado al mango, Piña , Aceite de aceituna picante)",
+          "price": 165,
+          "description": "Un delicioso Lumi Lumi de salmón marinado, que combina la frescura del mango y la piña con un toque de aceite de oliva picante. Esta opción saludable ofrece un sabor vibrante y exótico, ideal para disfrutar a cualquier hora del día."
+        },
+        {
+          "name": "Lumi Lumi de Camaron (Camarones con limon amarillo , rabano,Chile serrano,Aceite de ajonjoli)",
+          "price": 155,
+          "description": "Deliciosos camarones maridados con jugoso limón amarillo, acompañados de rábanos frescos y un toque picante de chile serrano, todo aderezado con aceite de ajonjolí. Un platillo fresco y lleno de sabor, ideal para disfrutar a cualquier hora."
+        },
+        {
+          "name": "Camarones al Coco (Camarones capeados al coco, salsa de mango picante , sweet potato pure)",
+          "price": 195,
+          "description": "Deliciosos camarones capeados al coco, crujientes por fuera y jugosos por dentro, servidos con una salsa de mango picante que aporta un toque tropical. Acompañados de un suave puré de batata, es un plato que combina sabores dulces y salados, ideal para disfrutar en cualquier momento del día."
+        }
+      ]
+    }
+  ],
+  "restaurant_name": "VIVA TIKILA"
+}
